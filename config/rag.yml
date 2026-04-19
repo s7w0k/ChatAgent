@@ -1,0 +1,19 @@
+chat_model_name: qwen3-max
+embedding_model_name: text-embedding-v4
+
+query_rewrite_enabled: true
+multi_query_count: 3
+multi_query_max_docs: 8
+
+hybrid_retrieval_enabled: true
+vector_top_k: 6
+bm25_top_k: 6
+rrf_k: 60
+hybrid_max_candidates: 12
+cross_encoder_enabled: false
+cross_encoder_model_name: BAAI/bge-reranker-base
+final_context_docs: 8
+
+traceable_answer_enabled: true
+traceable_max_sources: 5
+traceable_snippet_length: 120

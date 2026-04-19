@@ -1,0 +1,38 @@
+collection_name: agent
+persist_directory: chroma_db
+k: 3
+data_path: data
+md5_hex_store: md5.text
+allow_knowledge_file_type: ["pdf", "txt"]
+
+chunk_size: 200
+chunk_overlap: 20
+separator: ["\n", "\n\n", "", " ", "!", "！", "?", "？", ".", "。"]
+
+structured_ingestion:
+  enabled: true
+  source_type_keywords:
+    faq: ["faq", "100问", "常见问题", "问答"]
+    manual: ["说明书", "manual", "使用指南", "选购指南"]
+    spec: ["参数", "规格", "spec"]
+    troubleshoot: ["故障", "排查", "维修"]
+    policy: ["售后", "保修", "政策"]
+  chunk_strategy:
+    faq:
+      chunk_size: 260
+      chunk_overlap: 30
+    manual:
+      chunk_size: 260
+      chunk_overlap: 30
+    spec:
+      chunk_size: 180
+      chunk_overlap: 20
+    troubleshoot:
+      chunk_size: 220
+      chunk_overlap: 25
+    policy:
+      chunk_size: 220
+      chunk_overlap: 25
+    general:
+      chunk_size: 200
+      chunk_overlap: 20

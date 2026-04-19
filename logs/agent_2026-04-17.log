@@ -1,0 +1,261 @@
+2026-04-17 15:12:18,918 - agent - INFO - vector_store.py:154 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人100问.pdf内容已存在知识库内
+2026-04-17 15:12:18,919 - agent - INFO - vector_store.py:154 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人100问2.txt内容已存在知识库内
+2026-04-17 15:12:18,919 - agent - INFO - vector_store.py:154 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人品牌.txt内容已存在知识库内
+2026-04-17 15:12:18,919 - agent - INFO - vector_store.py:154 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫拖一体机器人100问.txt内容已存在知识库内
+2026-04-17 15:12:18,920 - agent - INFO - vector_store.py:154 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\故障排除.txt内容已存在知识库内
+2026-04-17 15:12:18,920 - agent - INFO - vector_store.py:154 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\无人机.txt内容已存在知识库内
+2026-04-17 15:12:18,920 - agent - INFO - vector_store.py:154 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\维护保养.txt内容已存在知识库内
+2026-04-17 15:12:18,921 - agent - INFO - vector_store.py:154 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\选购指南.txt内容已存在知识库内
+2026-04-17 15:12:47,931 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人100问.pdf结构化入库类型：faq，切片数量：25
+2026-04-17 15:12:49,837 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人100问.pdf加载成功
+2026-04-17 15:12:49,838 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人100问2.txt结构化入库类型：faq，切片数量：33
+2026-04-17 15:12:52,377 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人100问2.txt加载成功
+2026-04-17 15:12:52,378 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人品牌.txt结构化入库类型：general，切片数量：1
+2026-04-17 15:12:52,765 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人品牌.txt加载成功
+2026-04-17 15:12:52,766 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫拖一体机器人100问.txt结构化入库类型：faq，切片数量：36
+2026-04-17 15:12:55,311 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫拖一体机器人100问.txt加载成功
+2026-04-17 15:12:55,312 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\故障排除.txt结构化入库类型：troubleshoot，切片数量：90
+2026-04-17 15:13:01,980 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\故障排除.txt加载成功
+2026-04-17 15:13:01,981 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\无人机.txt结构化入库类型：general，切片数量：1
+2026-04-17 15:13:02,390 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\无人机.txt加载成功
+2026-04-17 15:13:02,391 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\维护保养.txt结构化入库类型：general，切片数量：51
+2026-04-17 15:13:07,821 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\维护保养.txt加载成功
+2026-04-17 15:13:07,822 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\选购指南.txt结构化入库类型：manual，切片数量：36
+2026-04-17 15:13:10,724 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\选购指南.txt加载成功
+2026-04-17 15:17:37,891 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有1条消息
+2026-04-17 15:17:37,892 - agent - DEBUG - middleware.py:34 - [log_before_model]HumanMessage消息内容：给我生成使用报告
+2026-04-17 15:17:40,485 - agent - INFO - middleware.py:14 - [tool monitor]执行工具：get_user_id
+2026-04-17 15:17:40,486 - agent - INFO - middleware.py:15 - [tool monitor]传入参数：{}
+2026-04-17 15:17:40,486 - agent - INFO - middleware.py:19 - [tool monitor]工具get_user_id执行结果：content='1004' name='get_user_id' tool_call_id='call_6a6d33250f974606b407a510'
+2026-04-17 15:17:40,540 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有3条消息
+2026-04-17 15:17:40,541 - agent - DEBUG - middleware.py:34 - [log_before_model]ToolMessage消息内容：1004
+2026-04-17 15:17:43,789 - agent - INFO - middleware.py:14 - [tool monitor]执行工具：get_current_month
+2026-04-17 15:17:43,789 - agent - INFO - middleware.py:15 - [tool monitor]传入参数：{}
+2026-04-17 15:17:43,789 - agent - INFO - middleware.py:19 - [tool monitor]工具get_current_month执行结果：content='2025-11' name='get_current_month' tool_call_id='call_1c814b894d034367aba65074'
+2026-04-17 15:17:43,874 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有5条消息
+2026-04-17 15:17:43,875 - agent - DEBUG - middleware.py:34 - [log_before_model]ToolMessage消息内容：2025-11
+2026-04-17 15:17:47,967 - agent - INFO - middleware.py:14 - [tool monitor]执行工具：fill_context_for_report
+2026-04-17 15:17:47,967 - agent - INFO - middleware.py:15 - [tool monitor]传入参数：{}
+2026-04-17 15:17:47,968 - agent - INFO - middleware.py:19 - [tool monitor]工具fill_context_for_report执行结果：content='fill_context_for_report已调用' name='fill_context_for_report' tool_call_id='call_7bd52a907ede4d158aa97b3f'
+2026-04-17 15:17:48,254 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有7条消息
+2026-04-17 15:17:48,255 - agent - DEBUG - middleware.py:34 - [log_before_model]ToolMessage消息内容：fill_context_for_report已调用
+2026-04-17 15:17:51,669 - agent - INFO - middleware.py:14 - [tool monitor]执行工具：fetch_external_data
+2026-04-17 15:17:51,669 - agent - INFO - middleware.py:15 - [tool monitor]传入参数：{'user_id': '1004', 'month': '2025-11'}
+2026-04-17 15:17:51,672 - agent - INFO - middleware.py:19 - [tool monitor]工具fetch_external_data执行结果：content='{"特征": "85㎡ | 2猫 | 混合地面", "效率": "猫砂泼洒处理:6次/月\\\\n自动回充成功率:92%", "耗材": "主刷缠绕:无\\\\n滤网寿命:剩余50天", "对比": "清洁效率优于同类养宠家庭30%"}' name='fetch_external_data' tool_call_id='call_2f7b038bf6094e43872b4923'
+2026-04-17 15:17:52,892 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有9条消息
+2026-04-17 15:17:52,893 - agent - DEBUG - middleware.py:34 - [log_before_model]ToolMessage消息内容：{"特征": "85㎡ | 2猫 | 混合地面", "效率": "猫砂泼洒处理:6次/月\\n自动回充成功率:92%", "耗材": "主刷缠绕:无\\n滤网寿命:剩余50天", "对比": "清洁效率优于同类养宠家庭30%"}
+2026-04-17 15:17:56,380 - agent - INFO - middleware.py:14 - [tool monitor]执行工具：rag_summarize
+2026-04-17 15:17:56,380 - agent - INFO - middleware.py:15 - [tool monitor]传入参数：{'query': '养猫家庭扫地机器人维护保养建议'}
+2026-04-17 15:18:00,046 - agent - INFO - middleware.py:19 - [tool monitor]工具rag_summarize执行结果：content='养猫家庭使用扫地机器人需定期清理滚刷和边刷，防止猫毛缠绕；及时清空尘盒并清洗滤网，避免异味和细菌滋生；检查传感器是否被猫毛或灰尘覆盖，确保正常工作；建议每周至少维护一次，若猫咪掉毛严重可增加频次。' name='rag_summarize' tool_call_id='call_7715e89c36c8435ebe934e8e'
+2026-04-17 15:18:01,094 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有11条消息
+2026-04-17 15:18:01,094 - agent - DEBUG - middleware.py:34 - [log_before_model]ToolMessage消息内容：养猫家庭使用扫地机器人需定期清理滚刷和边刷，防止猫毛缠绕；及时清空尘盒并清洗滤网，避免异味和细菌滋生；检查传感器是否被猫毛或灰尘覆盖，确保正常工作；建议每周至少维护一次，若猫咪掉毛严重可增加频次。
+2026-04-17 15:18:03,564 - agent - INFO - middleware.py:14 - [tool monitor]执行工具：rag_summarize
+2026-04-17 15:18:03,565 - agent - INFO - middleware.py:15 - [tool monitor]传入参数：{'query': '混合地面扫地机器人使用建议'}
+2026-04-17 15:18:07,475 - agent - INFO - middleware.py:19 - [tool monitor]工具rag_summarize执行结果：content='混合地面扫地机器人适用于多种地面类型（如瓷砖、木地板、地毯等），使用时应根据地面材质选择合适的清扫模式和吸力强度；定期清理滚刷和滤网以维持清洁效率；避免在潮湿或有大量液体的地面上运行，以防损坏设备；首次使用前建议熟悉说明书中的操作指南与安全提示。' name='rag_summarize' tool_call_id='call_26c9b1eb91f84f4ebc801c61'
+2026-04-17 15:18:08,793 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有13条消息
+2026-04-17 15:18:08,793 - agent - DEBUG - middleware.py:34 - [log_before_model]ToolMessage消息内容：混合地面扫地机器人适用于多种地面类型（如瓷砖、木地板、地毯等），使用时应根据地面材质选择合适的清扫模式和吸力强度；定期清理滚刷和滤网以维持清洁效率；避免在潮湿或有大量液体的地面上运行，以防损坏设备；首次使用前建议熟悉说明书中的操作指南与安全提示。
+2026-04-17 15:26:52,012 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人100问.pdf结构化入库类型：faq，切片数量：25
+2026-04-17 15:26:55,414 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人100问.pdf加载成功
+2026-04-17 15:26:55,415 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人100问2.txt结构化入库类型：faq，切片数量：33
+2026-04-17 15:26:59,404 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人100问2.txt加载成功
+2026-04-17 15:26:59,404 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人品牌.txt结构化入库类型：general，切片数量：1
+2026-04-17 15:26:59,814 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人品牌.txt加载成功
+2026-04-17 15:26:59,815 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫拖一体机器人100问.txt结构化入库类型：faq，切片数量：36
+2026-04-17 15:27:02,860 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫拖一体机器人100问.txt加载成功
+2026-04-17 15:27:02,861 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\故障排除.txt结构化入库类型：troubleshoot，切片数量：90
+2026-04-17 15:27:10,737 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\故障排除.txt加载成功
+2026-04-17 15:27:10,737 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\无人机.txt结构化入库类型：general，切片数量：1
+2026-04-17 15:27:11,566 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\无人机.txt加载成功
+2026-04-17 15:27:11,567 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\维护保养.txt结构化入库类型：general，切片数量：51
+2026-04-17 15:27:15,389 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\维护保养.txt加载成功
+2026-04-17 15:27:15,390 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\选购指南.txt结构化入库类型：manual，切片数量：36
+2026-04-17 15:27:18,112 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\选购指南.txt加载成功
+2026-04-17 15:34:07,736 - agent - INFO - vector_store.py:154 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人100问.pdf内容已存在知识库内
+2026-04-17 15:34:07,736 - agent - INFO - vector_store.py:154 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人100问2.txt内容已存在知识库内
+2026-04-17 15:34:07,736 - agent - INFO - vector_store.py:154 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人品牌.txt内容已存在知识库内
+2026-04-17 15:34:07,736 - agent - INFO - vector_store.py:154 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫拖一体机器人100问.txt内容已存在知识库内
+2026-04-17 15:34:07,737 - agent - INFO - vector_store.py:154 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\故障排除.txt内容已存在知识库内
+2026-04-17 15:34:07,737 - agent - INFO - vector_store.py:154 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\无人机.txt内容已存在知识库内
+2026-04-17 15:34:07,737 - agent - INFO - vector_store.py:154 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\维护保养.txt内容已存在知识库内
+2026-04-17 15:34:07,738 - agent - INFO - vector_store.py:154 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\选购指南.txt内容已存在知识库内
+2026-04-17 15:34:17,711 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人100问.pdf结构化入库类型：faq，切片数量：25
+2026-04-17 15:34:20,108 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人100问.pdf加载成功
+2026-04-17 15:34:20,109 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人100问2.txt结构化入库类型：faq，切片数量：33
+2026-04-17 15:34:23,208 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人100问2.txt加载成功
+2026-04-17 15:34:23,209 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人品牌.txt结构化入库类型：general，切片数量：1
+2026-04-17 15:34:23,548 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫地机器人品牌.txt加载成功
+2026-04-17 15:34:23,549 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫拖一体机器人100问.txt结构化入库类型：faq，切片数量：36
+2026-04-17 15:34:26,039 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\扫拖一体机器人100问.txt加载成功
+2026-04-17 15:34:26,040 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\故障排除.txt结构化入库类型：troubleshoot，切片数量：90
+2026-04-17 15:34:32,691 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\故障排除.txt加载成功
+2026-04-17 15:34:32,691 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\无人机.txt结构化入库类型：general，切片数量：1
+2026-04-17 15:34:33,078 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\无人机.txt加载成功
+2026-04-17 15:34:33,079 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\维护保养.txt结构化入库类型：general，切片数量：51
+2026-04-17 15:34:36,959 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\维护保养.txt加载成功
+2026-04-17 15:34:36,960 - agent - INFO - vector_store.py:167 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\选购指南.txt结构化入库类型：manual，切片数量：36
+2026-04-17 15:34:40,267 - agent - INFO - vector_store.py:178 - [加载知识库]D:\研究生\1\学习日志\大模型\RAG\pyproject\Agent智能体\项目\data\选购指南.txt加载成功
+2026-04-17 15:35:49,873 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有1条消息
+2026-04-17 15:35:49,873 - agent - DEBUG - middleware.py:34 - [log_before_model]HumanMessage消息内容：机器人坏了怎么办
+2026-04-17 15:35:51,408 - agent - INFO - middleware.py:14 - [tool monitor]执行工具：rag_summarize
+2026-04-17 15:35:51,408 - agent - INFO - middleware.py:15 - [tool monitor]传入参数：{'query': '扫地机器人故障处理方法'}
+2026-04-17 15:35:59,602 - agent - INFO - middleware.py:19 - [tool monitor]工具rag_summarize执行结果：content='扫地机器人常见故障及处理方法包括：  \n1. 开机无反应：检查电源适配器、电源线和电池安装，必要时更换或联系售后。  \n2. 开机后自动关机：检查电量、机身温度及电池状态，充满电、冷却或更换鼓包电池。  \n3. 指示灯闪烁无报警声：对照说明书识别指示灯代码并按提示处理，可尝试重启。  \n4. 风道异响、吸力不稳：清理风道杂物，若问题持续则联系售后检测电机。  \n5. 拖布支架生锈：使用除锈剂清理，更换不锈钢支架，并保持使用环境干燥。  \n6. 手动移动后定位错乱：开启定位校准、清洁传感器并重新建图。  \n7. 拖布掉毛污染地面：更换原装且未破损老化的拖布。  \n8. 无法进入床底或沙发底：确认家具底部高度适配，并取消相关区域的禁区设置。' name='rag_summarize' tool_call_id='call_36fea6117f4a4765ba9fc30c'
+2026-04-17 15:36:03,029 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有3条消息
+2026-04-17 15:36:03,029 - agent - DEBUG - middleware.py:34 - [log_before_model]ToolMessage消息内容：扫地机器人常见故障及处理方法包括：  
+1. 开机无反应：检查电源适配器、电源线和电池安装，必要时更换或联系售后。  
+2. 开机后自动关机：检查电量、机身温度及电池状态，充满电、冷却或更换鼓包电池。  
+3. 指示灯闪烁无报警声：对照说明书识别指示灯代码并按提示处理，可尝试重启。  
+4. 风道异响、吸力不稳：清理风道杂物，若问题持续则联系售后检测电机。  
+5. 拖布支架生锈：使用除锈剂清理，更换不锈钢支架，并保持使用环境干燥。  
+6. 手动移动后定位错乱：开启定位校准、清洁传感器并重新建图。  
+7. 拖布掉毛污染地面：更换原装且未破损老化的拖布。  
+8. 无法进入床底或沙发底：确认家具底部高度适配，并取消相关区域的禁区设置。
+2026-04-17 15:59:06,343 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有1条消息
+2026-04-17 15:59:06,343 - agent - DEBUG - middleware.py:34 - [log_before_model]HumanMessage消息内容：机器人坏了怎么办
+2026-04-17 15:59:07,861 - agent - INFO - middleware.py:14 - [tool monitor]执行工具：rag_summarize
+2026-04-17 15:59:07,861 - agent - INFO - middleware.py:15 - [tool monitor]传入参数：{'query': '扫地机器人故障处理方法'}
+2026-04-17 15:59:10,721 - agent - INFO - rag_service.py:103 - [query_rewrite]intention=故障处理, queries=['扫地机器人故障处理方法', '扫地机器人出现故障怎么解决', '扫地机器人常见故障及维修方法', '智能扫地机故障排查与处理指南']
+2026-04-17 15:59:11,926 - agent - INFO - rag_service.py:138 - [query_rewrite]多查询融合命中4条文档
+2026-04-17 15:59:21,037 - agent - INFO - middleware.py:19 - [tool monitor]工具rag_summarize执行结果：content='扫地机器人常见故障及处理方法包括：  \n1. 开机无反应：检查电源适配器、电源线和电池安装，必要时更换或联系售后。  \n2. 开机后自动关机：检查电量、机身温度及电池状态，充满电、冷却或更换鼓包电池。  \n3. 指示灯闪烁无报警：对照说明书解读指示灯代码并按提示处理，可尝试重启。  \n4. 风道异响、吸力不稳：清理风道杂物，若问题持续需检测电机。  \n5. 拖布支架生锈：使用除锈剂清理，更换不锈钢支架并保持干燥环境。  \n6. 定位错乱：开启定位校准、清洁传感器或重新建图。  \n7. 拖布掉毛：更换原装且未破损的老化拖布。  \n8. 无法进入低矮区域：确认家具底部高度是否适配，并检查是否误设禁区。  \n9. 油渍残留：开启多次清扫，使用专用去油清洁液，必要时手动预处理。  \n10. 电池鼓包：立即停用，更换原装电池和充电适配器。  \n11. 滚刷仓漏灰：避免清扫硬物，联系售后更换磨损仓体。' name='rag_summarize' tool_call_id='call_142f165e94c3439ba61e81b2'
+2026-04-17 15:59:25,293 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有3条消息
+2026-04-17 15:59:25,293 - agent - DEBUG - middleware.py:34 - [log_before_model]ToolMessage消息内容：扫地机器人常见故障及处理方法包括：  
+1. 开机无反应：检查电源适配器、电源线和电池安装，必要时更换或联系售后。  
+2. 开机后自动关机：检查电量、机身温度及电池状态，充满电、冷却或更换鼓包电池。  
+3. 指示灯闪烁无报警：对照说明书解读指示灯代码并按提示处理，可尝试重启。  
+4. 风道异响、吸力不稳：清理风道杂物，若问题持续需检测电机。  
+5. 拖布支架生锈：使用除锈剂清理，更换不锈钢支架并保持干燥环境。  
+6. 定位错乱：开启定位校准、清洁传感器或重新建图。  
+7. 拖布掉毛：更换原装且未破损的老化拖布。  
+8. 无法进入低矮区域：确认家具底部高度是否适配，并检查是否误设禁区。  
+9. 油渍残留：开启多次清扫，使用专用去油清洁液，必要时手动预处理。  
+10. 电池鼓包：立即停用，更换原装电池和充电适配器。  
+11. 滚刷仓漏灰：避免清扫硬物，联系售后更换磨损仓体。
+2026-04-17 16:16:30,621 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有1条消息
+2026-04-17 16:16:30,621 - agent - DEBUG - middleware.py:34 - [log_before_model]HumanMessage消息内容：机器人坏了怎么办
+2026-04-17 16:16:34,689 - agent - INFO - middleware.py:14 - [tool monitor]执行工具：rag_summarize
+2026-04-17 16:16:34,690 - agent - INFO - middleware.py:15 - [tool monitor]传入参数：{'query': '扫地机器人故障处理方法'}
+2026-04-17 16:16:39,196 - agent - INFO - rag_service.py:127 - [query_rewrite]intention=故障处理, queries=['扫地机器人故障处理方法', '扫地机器人出现故障怎么解决', '扫地机器人常见故障及维修方法', '智能扫地机故障排查与处理指南']
+2026-04-17 16:16:42,353 - agent - INFO - rag_service.py:183 - [hybrid_retrieval]BM25索引已构建，文档数：273
+2026-04-17 16:16:42,355 - agent - INFO - rag_service.py:279 - [hybrid_retrieval]query=扫地机器人故障处理方法, vector_hits=6, bm25_hits=6
+2026-04-17 16:16:44,440 - agent - INFO - rag_service.py:279 - [hybrid_retrieval]query=扫地机器人出现故障怎么解决, vector_hits=6, bm25_hits=6
+2026-04-17 16:16:47,619 - agent - INFO - rag_service.py:279 - [hybrid_retrieval]query=扫地机器人常见故障及维修方法, vector_hits=6, bm25_hits=6
+2026-04-17 16:16:47,619 - agent - INFO - rag_service.py:282 - [hybrid_retrieval]RRF融合命中12条文档
+2026-04-17 16:16:47,619 - agent - INFO - rag_service.py:286 - [hybrid_retrieval]最终上下文文档数：8
+2026-04-17 16:17:03,918 - agent - INFO - middleware.py:19 - [tool monitor]工具rag_summarize执行结果：content='扫地机器人常见故障及处理方法包括：  \n- 开机无反应：检查电源适配器、电源线、电池安装，确保充电座通电，无效则联系售后。  \n- 开机后自动关机：检查电量、机身温度及电池是否鼓包，必要时更换原装电池。  \n- 指示灯闪烁无报警：对照说明书解读指示灯代码，按提示处理并重启。  \n- 风道异响、吸力不稳：清理风道杂物，异常时联系售后检测电机。  \n- 拖布支架生锈：使用除锈剂清理，更换不锈钢支架，保持干燥环境。  \n- 拖地残留污渍：开启多次清扫，使用专用去油清洁液，手动预处理顽固污渍。  \n- 电池鼓包：立即停用，更换原装电池和适配器。  \n- 滚刷仓漏灰：避免清扫硬物，联系售后更换滚刷仓。  \n- 机器人不移动：检查缠绕物、轮子卡顿，重启设备。  \n- 找不到充电座：清理周围障碍物，确保前方3米、左右1米无遮挡，放回附近重启回充。  \n- 定位错乱：擦拭传感器，开启定位校准，重新建图。  \n- 拖布掉毛：更换原装拖布，禁用破损拖布。  \n- 无法进入低矮区域：确认家具底部高度适配，取消禁区设置。  \n- 边刷磨损快：清理地面尖锐物，使用原装边刷，增加更换频率。  \n- 电池故障提示：检查电池状态及排线，更换或重新插拔。  \n- 水箱水垢堵塞：用柠檬酸溶液除垢，改用纯净水。  \n- 定时任务失效：校准时间，确保WiFi连接及机器人开机。  \n- 主刷轴承生锈：滴专用润滑油，无效则更换主刷。  \n- 拖地留条纹：调整拖布安装，清理污渍，校准出水量。' name='rag_summarize' tool_call_id='call_4cec190d20564f67a0fc9ad1'
+2026-04-17 16:17:10,653 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有3条消息
+2026-04-17 16:17:10,653 - agent - DEBUG - middleware.py:34 - [log_before_model]ToolMessage消息内容：扫地机器人常见故障及处理方法包括：  
+- 开机无反应：检查电源适配器、电源线、电池安装，确保充电座通电，无效则联系售后。  
+- 开机后自动关机：检查电量、机身温度及电池是否鼓包，必要时更换原装电池。  
+- 指示灯闪烁无报警：对照说明书解读指示灯代码，按提示处理并重启。  
+- 风道异响、吸力不稳：清理风道杂物，异常时联系售后检测电机。  
+- 拖布支架生锈：使用除锈剂清理，更换不锈钢支架，保持干燥环境。  
+- 拖地残留污渍：开启多次清扫，使用专用去油清洁液，手动预处理顽固污渍。  
+- 电池鼓包：立即停用，更换原装电池和适配器。  
+- 滚刷仓漏灰：避免清扫硬物，联系售后更换滚刷仓。  
+- 机器人不移动：检查缠绕物、轮子卡顿，重启设备。  
+- 找不到充电座：清理周围障碍物，确保前方3米、左右1米无遮挡，放回附近重启回充。  
+- 定位错乱：擦拭传感器，开启定位校准，重新建图。  
+- 拖布掉毛：更换原装拖布，禁用破损拖布。  
+- 无法进入低矮区域：确认家具底部高度适配，取消禁区设置。  
+- 边刷磨损快：清理地面尖锐物，使用原装边刷，增加更换频率。  
+- 电池故障提示：检查电池状态及排线，更换或重新插拔。  
+- 水箱水垢堵塞：用柠檬酸溶液除垢，改用纯净水。  
+- 定时任务失效：校准时间，确保WiFi连接及机器人开机。  
+- 主刷轴承生锈：滴专用润滑油，无效则更换主刷。  
+- 拖地留条纹：调整拖布安装，清理污渍，校准出水量。
+2026-04-17 16:19:55,055 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有1条消息
+2026-04-17 16:19:55,056 - agent - DEBUG - middleware.py:34 - [log_before_model]HumanMessage消息内容：机器人坏了怎么办
+2026-04-17 16:20:00,014 - agent - INFO - middleware.py:14 - [tool monitor]执行工具：rag_summarize
+2026-04-17 16:20:00,015 - agent - INFO - middleware.py:15 - [tool monitor]传入参数：{'query': '扫地机器人故障处理方法'}
+2026-04-17 16:20:06,108 - agent - INFO - rag_service.py:127 - [query_rewrite]intention=故障处理, queries=['扫地机器人故障处理方法', '扫地机器人出现故障怎么解决', '扫地机器人不工作如何排查和修复', '扫地机器人常见故障及维修方法']
+2026-04-17 16:20:08,557 - agent - INFO - rag_service.py:183 - [hybrid_retrieval]BM25索引已构建，文档数：273
+2026-04-17 16:20:08,559 - agent - INFO - rag_service.py:279 - [hybrid_retrieval]query=扫地机器人故障处理方法, vector_hits=6, bm25_hits=6
+2026-04-17 16:20:10,647 - agent - INFO - rag_service.py:279 - [hybrid_retrieval]query=扫地机器人出现故障怎么解决, vector_hits=6, bm25_hits=6
+2026-04-17 16:20:12,795 - agent - INFO - rag_service.py:279 - [hybrid_retrieval]query=扫地机器人不工作如何排查和修复, vector_hits=6, bm25_hits=6
+2026-04-17 16:20:12,795 - agent - INFO - rag_service.py:282 - [hybrid_retrieval]RRF融合命中12条文档
+2026-04-17 16:20:12,795 - agent - WARNING - rag_service.py:250 - [hybrid_retrieval]Cross-Encoder不可用，降级仅RRF排序，错误信息：No module named 'sentence_transformers'
+2026-04-17 16:20:12,796 - agent - INFO - rag_service.py:286 - [hybrid_retrieval]最终上下文文档数：8
+2026-04-17 16:20:25,578 - agent - INFO - middleware.py:19 - [tool monitor]工具rag_summarize执行结果：content='扫地机器人常见故障及处理方法包括：  \n- 指示灯闪烁无报警声：对照说明书查看指示灯代码，按提示处理后重启。  \n- 开机无反应或立即关机：检查电源适配器、电池安装及电量，必要时更换电源线或原装电池；若电池鼓包应立即停用并更换。  \n- 风道异响、吸力不稳：清理风道杂物，电机异常需联系售后。  \n- 滚刷故障报警：拆卸清理缠绕物，检查电机卡顿后重启。  \n- 定位错乱：擦拭传感器，开启定位校准，重新建图。  \n- 无法回充：清理充电座周围障碍物，确保前方3米、左右1米无遮挡，将机器人放回附近重启回充。  \n- APP无法连接：重启机器人和路由器，恢复出厂设置后重连WiFi，无效则联系售后。  \n- 拖布支架生锈：用除锈剂清理，更换不锈钢支架并保持干燥使用。  \n- 尘盒把手断裂、滚刷仓磨损、拖布掉毛等问题：更换对应配件，避免使用破损部件。  \n- 其他如地毯识别失效、断点续扫丢失进度等：擦拭传感器、开启相应功能并确保地图保存。  \n涉及主板、电机、电路等硬件故障或自行处理无效时，应联系售后检测。' name='rag_summarize' tool_call_id='call_20d0a98768e04f5fac733e1f'
+2026-04-17 16:20:30,436 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有3条消息
+2026-04-17 16:20:30,436 - agent - DEBUG - middleware.py:34 - [log_before_model]ToolMessage消息内容：扫地机器人常见故障及处理方法包括：  
+- 指示灯闪烁无报警声：对照说明书查看指示灯代码，按提示处理后重启。  
+- 开机无反应或立即关机：检查电源适配器、电池安装及电量，必要时更换电源线或原装电池；若电池鼓包应立即停用并更换。  
+- 风道异响、吸力不稳：清理风道杂物，电机异常需联系售后。  
+- 滚刷故障报警：拆卸清理缠绕物，检查电机卡顿后重启。  
+- 定位错乱：擦拭传感器，开启定位校准，重新建图。  
+- 无法回充：清理充电座周围障碍物，确保前方3米、左右1米无遮挡，将机器人放回附近重启回充。  
+- APP无法连接：重启机器人和路由器，恢复出厂设置后重连WiFi，无效则联系售后。  
+- 拖布支架生锈：用除锈剂清理，更换不锈钢支架并保持干燥使用。  
+- 尘盒把手断裂、滚刷仓磨损、拖布掉毛等问题：更换对应配件，避免使用破损部件。  
+- 其他如地毯识别失效、断点续扫丢失进度等：擦拭传感器、开启相应功能并确保地图保存。  
+涉及主板、电机、电路等硬件故障或自行处理无效时，应联系售后检测。
+2026-04-17 16:38:13,233 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有1条消息
+2026-04-17 16:38:13,233 - agent - DEBUG - middleware.py:34 - [log_before_model]HumanMessage消息内容：机器人坏了怎么办
+2026-04-17 16:38:17,303 - agent - INFO - middleware.py:14 - [tool monitor]执行工具：rag_summarize
+2026-04-17 16:38:17,303 - agent - INFO - middleware.py:15 - [tool monitor]传入参数：{'query': '扫地机器人故障处理方法'}
+2026-04-17 16:38:23,125 - agent - INFO - rag_service.py:127 - [query_rewrite]intention=故障处理, queries=['扫地机器人故障处理方法', '扫地机器人出现故障怎么解决', '扫地机器人常见故障及维修方法', '智能扫地机故障排除指南']
+2026-04-17 16:38:25,285 - agent - INFO - rag_service.py:183 - [hybrid_retrieval]BM25索引已构建，文档数：273
+2026-04-17 16:38:25,288 - agent - INFO - rag_service.py:279 - [hybrid_retrieval]query=扫地机器人故障处理方法, vector_hits=6, bm25_hits=6
+2026-04-17 16:38:27,507 - agent - INFO - rag_service.py:279 - [hybrid_retrieval]query=扫地机器人出现故障怎么解决, vector_hits=6, bm25_hits=6
+2026-04-17 16:38:30,164 - agent - INFO - rag_service.py:279 - [hybrid_retrieval]query=扫地机器人常见故障及维修方法, vector_hits=6, bm25_hits=6
+2026-04-17 16:38:30,164 - agent - INFO - rag_service.py:282 - [hybrid_retrieval]RRF融合命中12条文档
+2026-04-17 16:39:33,831 - agent - INFO - rag_service.py:247 - [hybrid_retrieval]Cross-Encoder加载成功：BAAI/bge-reranker-base
+2026-04-17 16:39:35,762 - agent - INFO - rag_service.py:286 - [hybrid_retrieval]最终上下文文档数：8
+2026-04-17 16:39:53,172 - agent - INFO - middleware.py:19 - [tool monitor]工具rag_summarize执行结果：content='扫地机器人常见故障及处理方法包括：  \n- 指示灯闪烁无报警声：对照说明书查看代码，按提示处理并重启。  \n- 风道异响、吸力不稳：清理风道杂物，必要时联系售后检测电机。  \n- 拖布支架生锈：用除锈剂清理，更换不锈钢支架，保持干燥使用。  \n- 开机不移动：检查防撞条或电源线缠绕，确认轮子无卡顿，重启设备。  \n- 找不到充电座：清理周围障碍物，确保充电座前方3米、左右1米无遮挡，将机器人放回附近重启回充。  \n- 无法执行定时清扫：校准时间，确保WiFi正常且机器人开机。  \n- 主刷轴承生锈卡顿：滴专用润滑油，无效则更换主刷。  \n- 拖地后地面有条纹污渍：调整拖布安装，手动清理污渍，校准出水量。  \n- 边刷磨损过快：清理尖锐杂物，使用原装边刷，增加更换频率。  \n- 提示“电池故障”：检查是否鼓包、漏液或排线松动，更换电池或重新插拔排线。  \n- 水箱水垢堵塞：用柠檬酸溶液浸泡除垢，改用纯净水加注。  \n- 果汁油渍残留：开启多次清扫，使用专用去油清洁液，手动预处理。  \n- 充电时电池鼓包：立即停充，更换原装电池和适配器。  \n- 滚刷仓漏灰：避免清扫硬物，联系售后更换滚刷仓。  \n- 定位错乱：开启定位校准，擦拭传感器，重新建图。  \n- 拖布掉毛：更换原装拖布，禁用破损拖布。  \n- 无法进入低矮区域：确认家具底部高度适配，取消禁区设置。  \n- “滚刷故障”报警：清理缠绕物，检查电机，重启。  \n- 开机即报警关机：断电并联系售后，勿自行拆解。  \n- “WiFi模块故障”报警：重启设备与路由器，恢复出厂设置重连，无效则联系售后。' name='rag_summarize' tool_call_id='call_bcdce3c06318412ba348d845'
+2026-04-17 16:40:00,494 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有3条消息
+2026-04-17 16:40:00,494 - agent - DEBUG - middleware.py:34 - [log_before_model]ToolMessage消息内容：扫地机器人常见故障及处理方法包括：  
+- 指示灯闪烁无报警声：对照说明书查看代码，按提示处理并重启。  
+- 风道异响、吸力不稳：清理风道杂物，必要时联系售后检测电机。  
+- 拖布支架生锈：用除锈剂清理，更换不锈钢支架，保持干燥使用。  
+- 开机不移动：检查防撞条或电源线缠绕，确认轮子无卡顿，重启设备。  
+- 找不到充电座：清理周围障碍物，确保充电座前方3米、左右1米无遮挡，将机器人放回附近重启回充。  
+- 无法执行定时清扫：校准时间，确保WiFi正常且机器人开机。  
+- 主刷轴承生锈卡顿：滴专用润滑油，无效则更换主刷。  
+- 拖地后地面有条纹污渍：调整拖布安装，手动清理污渍，校准出水量。  
+- 边刷磨损过快：清理尖锐杂物，使用原装边刷，增加更换频率。  
+- 提示“电池故障”：检查是否鼓包、漏液或排线松动，更换电池或重新插拔排线。  
+- 水箱水垢堵塞：用柠檬酸溶液浸泡除垢，改用纯净水加注。  
+- 果汁油渍残留：开启多次清扫，使用专用去油清洁液，手动预处理。  
+- 充电时电池鼓包：立即停充，更换原装电池和适配器。  
+- 滚刷仓漏灰：避免清扫硬物，联系售后更换滚刷仓。  
+- 定位错乱：开启定位校准，擦拭传感器，重新建图。  
+- 拖布掉毛：更换原装拖布，禁用破损拖布。  
+- 无法进入低矮区域：确认家具底部高度适配，取消禁区设置。  
+- “滚刷故障”报警：清理缠绕物，检查电机，重启。  
+- 开机即报警关机：断电并联系售后，勿自行拆解。  
+- “WiFi模块故障”报警：重启设备与路由器，恢复出厂设置重连，无效则联系售后。
+2026-04-17 16:56:10,723 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有1条消息
+2026-04-17 16:56:10,724 - agent - DEBUG - middleware.py:34 - [log_before_model]HumanMessage消息内容：机器人坏了怎么办
+2026-04-17 16:56:14,114 - agent - INFO - middleware.py:14 - [tool monitor]执行工具：rag_summarize
+2026-04-17 16:56:14,114 - agent - INFO - middleware.py:15 - [tool monitor]传入参数：{'query': '扫地机器人故障处理方法'}
+2026-04-17 16:56:17,905 - agent - INFO - rag_service.py:108 - [query_rewrite]intention=故障处理, queries=['扫地机器人故障处理方法', '扫地机器人出现故障怎么解决', '扫地机器人常见故障及维修方法', '智能扫地机故障排除指南']
+2026-04-17 16:56:20,171 - agent - INFO - rag_service.py:153 - [hybrid_retrieval]BM25索引已构建，文档数：273
+2026-04-17 16:56:20,172 - agent - INFO - rag_service.py:236 - [hybrid_retrieval]query=扫地机器人故障处理方法, vector_hits=6, bm25_hits=6
+2026-04-17 16:56:22,278 - agent - INFO - rag_service.py:236 - [hybrid_retrieval]query=扫地机器人出现故障怎么解决, vector_hits=6, bm25_hits=6
+2026-04-17 16:56:24,466 - agent - INFO - rag_service.py:236 - [hybrid_retrieval]query=扫地机器人常见故障及维修方法, vector_hits=6, bm25_hits=6
+2026-04-17 16:56:24,466 - agent - INFO - rag_service.py:239 - [hybrid_retrieval]RRF融合命中12条文档
+2026-04-17 16:56:24,467 - agent - INFO - rag_service.py:243 - [hybrid_retrieval]最终上下文文档数：8
+2026-04-17 16:56:37,996 - agent - INFO - middleware.py:19 - [tool monitor]工具rag_summarize执行结果：content='扫地机器人常见故障及处理方法包括：  \n- 开机无反应时，检查电源适配器、电源线和电池安装，必要时更换或联系售后；  \n- 开机后自动关机，需检查电量、机身温度及电池是否鼓包，鼓包应立即更换原装电池；  \n- 指示灯闪烁无报警声，对照说明书解读代码并按提示处理；  \n- 风道异响或吸力不稳，清理风道杂物，异常则联系售后检测电机；  \n- 拖布支架生锈，使用除锈剂清理并更换为不锈钢支架，保持干燥环境；  \n- 充电时电池鼓包，立即停用并更换原装电池与适配器；  \n- 机器人不移动，检查是否被缠绕、轮子卡顿，重启设备；  \n- 找不到充电座，清理周围障碍物并确保前方3米无障碍，放回附近重启回充；  \n- 定位错乱，开启定位校准、擦拭传感器或重新建图；  \n- 边刷磨损快，清理地面尖锐物并使用原装边刷；  \n- 提示“电池故障”，检查是否鼓包、漏液或排线松动，相应更换或插紧；  \n- 水箱水垢堵塞，用柠檬酸溶液除垢并改用纯净水；  \n- 无法执行定时任务，校准时间、确保WiFi连接及机器人开机；  \n- 主刷轴承生锈卡顿，滴专用润滑油或更换主刷；  \n- 拖地后留条纹污渍，调整拖布安装、手动清理污渍或校准出水量。\n\n【参考来源】\n- [S1] title=故障排除.txt | doc_id=ec2d961e04184898d502bc8402b7cb14 | section=troubleshoot_chunk_1 | snippet=扫地/扫拖一体机器人故障检测与修复200条  1. 故障现象：机器人开机无反应，指示灯不亮；检测：检查电源适配器是否插紧、电源线是否破损，电池是否安装到位；修复：更换完好电源线，重新插拔电池，确保充电座通电，若仍无反应联系售后检测主板。  \n- [S2] title=故障排除.txt | doc_id=ec2d961e04184898d502bc8402b7cb14 | section=troubleshoot_chunk_38 | snippet=81. 故障现象：机器人指示灯闪烁，无报警声；检测：对照说明书查看指示灯代码，排查对应故障（如电量、网络）；修复：按代码提示处理，重启机器人。  82. 故障现象：扫地时风道有异响，吸力不稳定；检测：风道是否有杂物卡顿，电机是否工作异常；修\n- [S3] title=故障排除.txt | doc_id=ec2d961e04184898d502bc8402b7cb14 | section=troubleshoot_chunk_75 | snippet=164. 故障现象：拖地时地面有果汁、油渍残留，无法清理；检测：是否开启多次清扫，清洁液是否为去油款；修复：开启多次清扫，使用专用去油清洁液，手动预处理。  165. 故障现象：机器人充电时电池鼓包，有安全隐患；检测：是否过充，电池是否老化\n- [S4] title=扫地机器人100问2.txt | doc_id=0c6f0287c8ca68c3dfe14d0d013c301b | section=faq_chunk_1 | snippet=# 扫地机器人常见问题及解答（100条） ### 基础使用类 1. **首次使用扫地机器人需要做什么？** - 拆除机身所有包装配件，充满电后，在空旷环境下启动建图，完成后再设置清扫区域和禁区。 2. **开机后机器人不移动怎么办？** -\n- [S5] title=故障排除.txt | doc_id=ec2d961e04184898d502bc8402b7cb14 | section=troubleshoot_chunk_26 | snippet=52. 故障现象：手动移动机器人后，定位错乱；检测：是否重新建图，传感器是否被遮挡，是否开启定位校准功能；修复：开启定位校准，擦拭传感器，重新建图。  53. 故障现象：拖地时拖布掉毛，污染地面；检测：拖布是否为原装，是否破损、老化；修复：' name='rag_summarize' tool_call_id='call_bc6b7267a5084916b43ecc6a'
+2026-04-17 16:56:55,494 - agent - INFO - middleware.py:33 - [log_before_model]即将调用模型，带有3条消息
+2026-04-17 16:56:55,494 - agent - DEBUG - middleware.py:34 - [log_before_model]ToolMessage消息内容：扫地机器人常见故障及处理方法包括：  
+- 开机无反应时，检查电源适配器、电源线和电池安装，必要时更换或联系售后；  
+- 开机后自动关机，需检查电量、机身温度及电池是否鼓包，鼓包应立即更换原装电池；  
+- 指示灯闪烁无报警声，对照说明书解读代码并按提示处理；  
+- 风道异响或吸力不稳，清理风道杂物，异常则联系售后检测电机；  
+- 拖布支架生锈，使用除锈剂清理并更换为不锈钢支架，保持干燥环境；  
+- 充电时电池鼓包，立即停用并更换原装电池与适配器；  
+- 机器人不移动，检查是否被缠绕、轮子卡顿，重启设备；  
+- 找不到充电座，清理周围障碍物并确保前方3米无障碍，放回附近重启回充；  
+- 定位错乱，开启定位校准、擦拭传感器或重新建图；  
+- 边刷磨损快，清理地面尖锐物并使用原装边刷；  
+- 提示“电池故障”，检查是否鼓包、漏液或排线松动，相应更换或插紧；  
+- 水箱水垢堵塞，用柠檬酸溶液除垢并改用纯净水；  
+- 无法执行定时任务，校准时间、确保WiFi连接及机器人开机；  
+- 主刷轴承生锈卡顿，滴专用润滑油或更换主刷；  
+- 拖地后留条纹污渍，调整拖布安装、手动清理污渍或校准出水量。
+
+【参考来源】
+- [S1] title=故障排除.txt | doc_id=ec2d961e04184898d502bc8402b7cb14 | section=troubleshoot_chunk_1 | snippet=扫地/扫拖一体机器人故障检测与修复200条  1. 故障现象：机器人开机无反应，指示灯不亮；检测：检查电源适配器是否插紧、电源线是否破损，电池是否安装到位；修复：更换完好电源线，重新插拔电池，确保充电座通电，若仍无反应联系售后检测主板。  
+- [S2] title=故障排除.txt | doc_id=ec2d961e04184898d502bc8402b7cb14 | section=troubleshoot_chunk_38 | snippet=81. 故障现象：机器人指示灯闪烁，无报警声；检测：对照说明书查看指示灯代码，排查对应故障（如电量、网络）；修复：按代码提示处理，重启机器人。  82. 故障现象：扫地时风道有异响，吸力不稳定；检测：风道是否有杂物卡顿，电机是否工作异常；修
+- [S3] title=故障排除.txt | doc_id=ec2d961e04184898d502bc8402b7cb14 | section=troubleshoot_chunk_75 | snippet=164. 故障现象：拖地时地面有果汁、油渍残留，无法清理；检测：是否开启多次清扫，清洁液是否为去油款；修复：开启多次清扫，使用专用去油清洁液，手动预处理。  165. 故障现象：机器人充电时电池鼓包，有安全隐患；检测：是否过充，电池是否老化
+- [S4] title=扫地机器人100问2.txt | doc_id=0c6f0287c8ca68c3dfe14d0d013c301b | section=faq_chunk_1 | snippet=# 扫地机器人常见问题及解答（100条） ### 基础使用类 1. **首次使用扫地机器人需要做什么？** - 拆除机身所有包装配件，充满电后，在空旷环境下启动建图，完成后再设置清扫区域和禁区。 2. **开机后机器人不移动怎么办？** -
+- [S5] title=故障排除.txt | doc_id=ec2d961e04184898d502bc8402b7cb14 | section=troubleshoot_chunk_26 | snippet=52. 故障现象：手动移动机器人后，定位错乱；检测：是否重新建图，传感器是否被遮挡，是否开启定位校准功能；修复：开启定位校准，擦拭传感器，重新建图。  53. 故障现象：拖地时拖布掉毛，污染地面；检测：拖布是否为原装，是否破损、老化；修复：
